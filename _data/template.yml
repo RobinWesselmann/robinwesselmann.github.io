@@ -7,5 +7,7 @@ color:
 
 # Font Families
 font:
-  primary: 'Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
-  secondary: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
+  primary: 'Inter, "Helvetica Neue", Arial, sans-serif'
+  display: 'Montserrat, "Helvetica Neue", Arial, sans-serif'
+  secondary: '"Droid Serif", Georgia, serif'
+  code: '"JetBrains Mono", "Fira Code", Consolas, monospace'
